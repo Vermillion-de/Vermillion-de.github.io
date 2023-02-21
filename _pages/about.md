@@ -27,7 +27,7 @@ short marathon.
 
 **Always actively looking for internships!** 
 
-**Feel free to contact with me if you want to chat with me! You can contach me through [ustc-mail](zq2308224300@mail.ustc.edu.cn) or other ways!**
+**Feel free to contact with me if you want to chat with me! My wechat ID is *qizhang_001*.**
 
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
