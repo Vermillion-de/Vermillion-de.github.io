@@ -8,9 +8,10 @@ nav_order: 5
 ---
 You can find links of some of my close friends here!
 
+[Yuzhu Chen](https://cyzkrau.github.io): math undergraduate @ USTC.
 
-[Binrui Song](https://home.ustc.edu.cn/~songbr/): physics undergad @ USTC, SCGY => Ph.D @ PKU.
+[Binrui Song](https://home.ustc.edu.cn/~songbr/): physics undergaduate @ USTC, SCGY => Ph.D @ PKU.
 
-[Jiarui Liu](https://home.ustc.edu.cn/~ljr145733/): physics undergad @ USTC, SCGY.
+[Jiarui Liu](https://home.ustc.edu.cn/~ljr145733/): physics undergaduate @ USTC, SCGY.
 
-[Lantian Xue](https://xuelantian.com/): earch science undergrad @ USTC, SCGY.
+[Lantian Xue](https://xuelantian.com/): earch science undergraduate @ USTC, SCGY.
