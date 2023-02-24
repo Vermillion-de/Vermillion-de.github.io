@@ -59,6 +59,7 @@ nav: false
 | [Lec21]() | | Week10| | **Geodics and distance on surfaces** | | ex4[9,12] | | - | 
 | [Lec22]() | | Week11| | **Atlas of geodics** | | ex4[15,16,18] | | - | 
 | [Lec23]() | | Week11| | **Gauss-Bonnet theorem** | | ex4[14] | | - | 
+
 <!--
 | [Lec24]() | | Week12| | **Balabalabala** | | - | | - | 
 | [Lec25]() | | Week12| | **Balabalabala** | | ex4[19,20] | | - | 
