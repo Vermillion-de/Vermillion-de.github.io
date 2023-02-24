@@ -71,3 +71,6 @@ nav: false
 | [Lec31]() | | Week15| | **Balabalabala** | | ex5[24, 25] | | - | 
 -->
 
+## Examinations
+
+#### Midterm, 28, 2, 2023.
