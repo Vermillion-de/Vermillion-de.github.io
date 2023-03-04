@@ -6,7 +6,9 @@ description: Some links from friends!.
 nav: true
 nav_order: 5 
 ---
-You can find links of some of my very close friends here!
+You can find links of some of my very close friends here! (ordered randomly).
+
+[Shubo Li](https://home.ustc.edu.cn/~samsara): static undergraduate @ USTC.
 
 [Zihan Dong](https://home.ustc.edu.cn/~andong): statis undergraduate @ USTC.
 
