@@ -8,9 +8,9 @@ nav_order: 5
 ---
 You can find links of some of my very close friends here! (ordered randomly).
 
-[Shubo Li](https://home.ustc.edu.cn/~samsara): static undergraduate @ USTC.
+[Shubo Li](http://home.ustc.edu.cn/~samsara): static undergraduate @ USTC.
 
-[Zihan Dong](https://home.ustc.edu.cn/~andong): statis undergraduate @ USTC.
+[Zihan Dong](http://home.ustc.edu.cn/~andong): statis undergraduate @ USTC.
 
 [Yuzhu Chen](https://cyzkrau.github.io): math undergraduate @ USTC.
 
