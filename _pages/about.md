@@ -22,7 +22,7 @@ nav_order: 1
 
 Hi! My name is Qi Zhang, I am currently a fourth year undergraduate student in USTC, majored in informational and computational science. For the most of the time, I am nerd in CG, CV, 3D Vision.
 
-In my free time, I am a super fan of MacOS, archlinux,  neovim (hacking cowboy🤠). I am also a fan of heavy music, movies and short marathon.
+In my free time, I am a super fan of MacOS, archlinux,  neovim (hacking cowboy🤠). I am also a fan of heavy music, movies, short marathon. At the same time, I have a minor interest in languages (Oui! Je parle Frànçs peti!).
 
 **Always actively looking for internships!** 
 
