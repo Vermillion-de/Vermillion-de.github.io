@@ -29,3 +29,5 @@ You can find links of some of my friends here! (ordered randomly).
 [Kaihao Jin](): → statis Ph.D @ UC, Berkeley.
 
 [Keshu Zhou](): → math Ph.D @ UC, Berkeley.
+
+[Anlun Li](alan200107.github.io): → math Ph.D @ NUS.
