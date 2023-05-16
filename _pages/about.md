@@ -28,6 +28,8 @@ In my free time, I am a super fan of MacOS, archlinux,  neovim (hacking cowboyðŸ
 
 **Feel free to contact with me if you want to chat with me! My wechat ID is *qizhang_001*.**
 
+Experimental: netease music:
+<embed src="//music.163.com/style/swf/widget.swf?sid=1427708&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
