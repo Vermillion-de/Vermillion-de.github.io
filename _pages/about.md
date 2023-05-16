@@ -28,9 +28,6 @@ In my free time, I am a super fan of MacOS, archlinux,  neovim (hacking cowboyðŸ
 
 **Feel free to contact with me if you want to chat with me! My wechat ID is *qizhang_001*.**
 
-Experimental: netease music:
-<embed src="//music.163.com/style/swf/widget.swf?sid=1427708&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
-
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
