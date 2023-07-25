@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Latin, Frânçs and English 
-date: 2023-10-04 17:39:00
+title: diffusion models 
+date: 2023-03-11 17:39:00
 description: View moden European languages from Latin.
 ---
 

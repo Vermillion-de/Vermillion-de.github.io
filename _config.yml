@@ -21,7 +21,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤓  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://vermillion-de.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -115,12 +115,12 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: qi-blog  # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Begin the exploration! 
+blog_description: Cogito, ergo sum. 
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 # Comments
 disqus_shortname: Qi Zhang # put your disqus shortname
@@ -140,7 +140,7 @@ disqus_shortname: Qi Zhang # put your disqus shortname
 collections:
   news:
     defaults:
-      layout: post
+      # layout: post
     output: f=true
     permalink: /news/:path/
   projects:
@@ -198,6 +198,7 @@ plugins:
 defaults:
   - scope:
       path: "assets/**/*.*"
+      # path: "assets/blog/*.*"
     values:
       sitemap: false
 
@@ -225,7 +226,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+# display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -297,10 +298,10 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
-enable_bing_verification:   false  # enables bing site verification
+enable_google_verification: true  # enables google site verification
+enable_bing_verification:   true  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated

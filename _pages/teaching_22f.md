@@ -73,4 +73,6 @@ nav: false
 
 ## Examinations
 
-#### Midterm, 28, 2, 2023.
+#### Midterm exam, 20, 11, 2022.
+
+#### Final exam, 28, 2, 2023.

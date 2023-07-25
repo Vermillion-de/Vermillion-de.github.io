@@ -4,7 +4,7 @@ permalink: /links/
 title: links 
 description: Some links from friends!.
 nav: true
-nav_order: 5 
+nav_order: 3 
 ---
 You can find links of some of my friends here! (ordered randomly).
 
